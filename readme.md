@@ -1,5 +1,9 @@
 # ArgumentParser
-ArgumentParser is a helper C++ class that parses command line arguments. It requires C++ 11. ArgumentParser has no external dependencies.
+ArgumentParser is a helper C++ class that parses command line arguments.
+
+ArgumentParser requires C++ 11 and has no external dependencies.
+
+Project has been written using Netbeans 8.0.2 IDE
 
 ## Using ArgumentParser
 To use ArgumentParser, just copy ArgumentParser.h and ArgumentParser.cpp
