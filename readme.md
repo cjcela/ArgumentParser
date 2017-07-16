@@ -48,10 +48,10 @@ int main(int argc, char** argv)
 
 The example snippet above handles default values, correctly parsing command lines like:
 
-> myprogram <executable-name>
-> myprogram -reps 50
-> myprogram -print
-> myprogram -reps 50 -print
+* myprogram <executable-name>
+* myprogram -reps 50
+* myprogram -print
+* myprogram -reps 50 -print
 
 
 ## Parsing values
