@@ -1,9 +1,6 @@
 /*
- * File:   TestRunner.cpp
- * Author: cjcela
-/*
  * Author:  Carlos J. Cela
- *          https://github.com/cjcela/ArgumentParser
+ *          https://github.com/cjcela/argument-parser
  *
  * License: MIT - See LICENSE file
  */
